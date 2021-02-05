@@ -1,3 +1,3 @@
-module github.com/discord/lilliput
+module github.com/juliankoehn/lilliput
 
 go 1.15
